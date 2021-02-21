@@ -1,4 +1,4 @@
-package dynamic.programming;
+package com.gs.algorithms.dp;
 
 import java.util.Arrays;
 

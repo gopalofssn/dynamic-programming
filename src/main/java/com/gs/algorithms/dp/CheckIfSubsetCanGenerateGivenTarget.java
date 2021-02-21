@@ -1,4 +1,4 @@
-package dynamic.programming;
+package com.gs.algorithms.dp;
 
 public class CheckIfSubsetCanGenerateGivenTarget {
 	/*
